@@ -1,16 +1,71 @@
-# React + Vite
+# 🎧 Spotify Clone — React + Vite  
+A modern and responsive **Spotify Clone Web App**, built using **React + Vite**, featuring music playback, albums, a clean UI, and smooth interactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.0-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Vite-7.0-purple?logo=vite" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Project Preview  
 
-## React Compiler
+Here is the Site Review Link : [https://spotify-clone-by-vineet.vercel.app/]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React 19**
+- ⚡ **Vite**
+- 🎨 **Tailwind CSS / CSS**
+- 🎵 **HTML5 Audio API**
+- 🧭 **React Router**
+- 📦 **Modern JavaScript (ES6+)**
+
+---
+
+## 🎵 Features
+
+### 🔥 Core Music Player Features
+- ▶️ Play / Pause Music  
+- ⏭️ Next / Previous Track  
+- 📊 Seek Bar (Music Timeline)  
+- ⏱️ Track Time & Duration  
+- 🔁 (Optional) Loop Mode  
+
+---
+
+### 🎶 App & UI Features
+- 📀 Albums Section  
+- 🎼 Song Details (Artist, Artwork, Duration)  
+- 🖥️ Spotify-Inspired Modern UI  
+- 🔄 Player State Management  
+- 📱 Fully Responsive (Mobile + Tablet + Desktop)
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone repository
+git clone https://github.com/Vineet3458/spotify-clone.git
+
+# Enter the project directory
+cd spotify-clone
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Your project will run at:
+👉 http://localhost:5173
+
+👤 Author
+Vineet Yadav
+GitHub: https://github.com/Vineet3458
